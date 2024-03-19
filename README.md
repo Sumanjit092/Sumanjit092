@@ -21,6 +21,6 @@ My primary work areas are Microsoft Azure Active Directory, Microsoft Intune & A
 </tr></tr></table> 
 
 <!---
-sumanjit-pan/sumanjit-pan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sumanjit092/sumanjit092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
