@@ -11,7 +11,7 @@ My primary work areas are Microsoft Azure Active Directory, Microsoft Intune & A
 
 </td><td valign="top" width="25%">
 
-## 🖥️ Fav Tech
+## 🖥️ Interests
 
 - Microsft Intune
 - Microsoft Azure Active Directory
