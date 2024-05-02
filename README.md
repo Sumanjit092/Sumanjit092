@@ -15,6 +15,8 @@ My primary work areas are Microsoft Azure Active Directory, Microsoft Intune & A
 
 - Microsft Intune
 - Microsoft Azure Active Directory
+- Azure AD Connect
+- Microsoft Exchange
 - Microsoft Defender
 - PowerShell
 
