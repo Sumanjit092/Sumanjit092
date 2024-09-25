@@ -7,7 +7,7 @@
 
 A Microsoft Certified: Identity & Access Administrator Associate & Cloud Engineer in India
 
-My primary work areas are Microsoft Azure Active Directory, Microsoft Intune & Azure AD Connect. Strongly focus on Cloud Infra Security. I started working in IT in the year 2018 and still learning lot of new things. I have worked with few reputated organization like Capgemini, Tata Consultancy Services, Infosys and now, I am working at Thomson Reuters Incorporation as Microsoft Endpoint Engineer.
+My primary work areas are Microsoft Azure Active Directory, Microsoft Intune & Azure AD Connect. Strongly focus on Cloud Infra Security. I started working in IT in the year 2018 and still learning lot of new things. I have worked with few reputated organization like Capgemini, Tata Consultancy Services, Infosys, Thomson Reuters Inc. and now, I am working at Rapid Circle B.V. as Consutant -Microsoft Entra ID, Microsoft 365 Identity & Security.
 
 </td><td valign="top" width="25%">
 
