@@ -13,8 +13,10 @@ My primary work areas are Microsoft Entra ID formerly Azure Active Directory, Mi
 
 ## 🖥️ Interests
 
-- Microsoft Entra ID formerly Azure Active Directory
-- Microsoft Entra ID Connect formerly Azure AD Connect
+- Microsoft Entra ID
+  (formerly Azure Active Directory)
+- Microsoft Entra ID Connect
+  (formerly Azure AD Connect)
 - Microsft Intune
 - Microsoft Exchange
 - Microsoft Defender for Endpoint
