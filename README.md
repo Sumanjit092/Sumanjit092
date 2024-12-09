@@ -5,19 +5,21 @@
 
 ## 👋 Hi, I am Sumanjit
 
-A Microsoft Certified: Identity & Access Administrator Associate & Cloud Engineer in India
+A Microsoft Certified: Identity & Access Administrator Associate, Microsoft Certified: Security, Compliance, and Identity Fundamentals, Microsoft Certified: Azure Fundamentals, Microsoft 365 Certified: Fundamentals & Cloud Engineer in India
 
-My primary work areas are Microsoft Azure Active Directory, Microsoft Intune & Azure AD Connect. Strongly focus on Cloud Infra Security. I started working in IT in the year 2018 and still learning lot of new things. I have worked with few reputated organization like Capgemini, Tata Consultancy Services, Infosys, Thomson Reuters Inc. and now, I am working at Rapid Circle B.V. as Consultant for Identity, Security & Compliance.
+My primary work areas are Microsoft Entra ID formerly Azure Active Directory, Microsoft Intune & Azure AD Connect. Strongly focus on Cloud Infra Security. I started working in IT in the year 2018 and still learning lot of new things. I have worked with few reputated organization like Capgemini, Tata Consultancy Services, Infosys, Thomson Reuters Inc. and now, I am working at Rapid Circle B.V. as Consultant for Identity, Security & Compliance.
 
 </td><td valign="top" width="25%">
 
 ## 🖥️ Interests
 
+- Microsoft Entra ID formerly Azure Active Directory
+- Microsoft Entra ID Connect formerly Azure AD Connect
 - Microsft Intune
-- Azure Active Directory
-- Azure AD Connect
 - Microsoft Exchange
-- Microsoft Defender
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Cloud Apps
+- Microsoft Defender for 365
 - Microsoft Graph API
 - PowerShell
 
